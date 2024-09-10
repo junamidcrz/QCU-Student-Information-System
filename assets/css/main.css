@@ -1,0 +1,293 @@
+.welcome {
+    padding-bottom: 20px;
+}
+
+.welcome p {
+    font-size: 15px;
+    margin-top: 15px;
+	padding-bottom: 17px;
+	color: #fff;
+	font-weight: 600;
+}
+
+.welcome table {
+	width: 100%;
+}
+
+.welcome td {
+	width: auto;
+	padding-right: 18px;
+}
+
+.content {
+	height: 85vh;
+}
+
+.welcome span {
+	font-size: 13px;
+}
+
+.welcome table {
+	color: #fff;
+}
+
+.tables {
+	background-color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #D8B532;
+}
+
+.tables p {
+	font-size: 13px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+.tables h1 {
+	font-size: 15px;
+	font-weight: 600;
+	padding: 10px 0px 10px 15px;
+}
+
+.line {
+	background-color: #D8B532;
+	height: 5px;
+	width: 97%;
+	margin-bottom: 20px;
+}
+
+.schedule table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	width: 97%;
+	text-align: center;
+	font-size: 14px;
+}
+
+.schedule thead {
+	background-color: #D8B532;
+	color: #fff;
+}
+
+.schedule tbody {
+	color: #000;
+}
+
+.schedule tr {
+    border: 1px solid #000;
+}
+
+.schedule td {
+    border: 1px solid #000;
+    padding: 7px 3px 7px 3px;
+}
+
+.stud-info table {
+	border: none;
+	width: 97%;
+	font-size: 13px;
+	padding: 13px;
+	background-color: #4d4dfe;
+	color: #fff;
+}
+
+.password {
+	padding-left: 25px;
+	padding-top: 10px;
+}
+
+.password label {
+    font-size: 14px;
+}
+
+.password table {
+	width: 35%;
+}
+
+.password td {
+	padding: 5px 5px 5px 0;
+}
+
+.password input[type=submit] {
+	width: 10%;
+	background-color: #303649;
+	color: #fff;
+	padding: 10px 10px;
+	margin: 20px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.password input[type=submit]:hover {
+	background-color: #2B2E37;
+}
+
+.add_btn {
+	background-color: #ccc;
+	text-decoration: none;
+	padding: 2px 5px;
+	margin-bottom: 7px;
+	float: right;
+	margin-top: -40px;
+	border: 1px solid #303649;
+	color: #000; 
+	transition: 0.5s;
+}
+
+.add_btn:hover {
+	background-color: #D8B532;
+	color: #fff;
+}
+
+.back_btn:hover {
+	background-color: #D8B532;
+	color: #fff;
+}
+
+.view_btn {
+	background-color: #3D5966;
+	text-decoration: none;
+	padding: 2px 5px;
+	font-size: 12px;
+	border: 1px solid #303649;
+	color: #fff; 
+	transition: 0.5s;
+}
+
+.view_btn:hover {
+	background-color: #303649;
+}
+
+.form {
+    background: #fff;
+	width: 60%;
+	margin: 50px auto;
+	text-align: left;
+	padding: 25px; 
+	border: 1px solid #D8B532; 
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+.form .title {
+	color: #D8B532;
+	font-weight: 600;
+	font-size: 15px;
+}
+
+.form .intro {
+	font-weight: 600;
+	font-size: 15px;
+}
+
+.form .input-group {
+	margin: 10px 0px 10px 0px;
+}
+
+.form .input-group label {
+	text-align: left;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.form .input-group input, select {
+	height: 30px;
+	width: 30%;
+	padding: 5px 10px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+
+.form .edit_btn {
+	background-color: #00b359;
+	color: #fff;
+	padding: 5px 10px;
+	margin-right: 10px;
+	border: 1px solid #008040;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.form .edit_btn:hover {
+	background-color: #008040;
+}
+
+.form .delete_btn {
+	text-decoration: none;
+    background-color: #d62929;
+	color: #fff;
+	padding: 5px 10px;
+	border: 1px solid #ab2121;
+	cursor: pointer;
+	transition: 0.5s;	
+}
+
+.form .delete_btn:hover {
+	background-color: #ab2121;
+}
+
+.gap {
+	border-bottom: 2px solid #D8B532;
+	margin-top: 8px;
+	margin-bottom: 23px;
+}
+
+.cancel_btn {
+	float: right;
+	margin-right: 10px;
+	text-decoration: none;
+	border: none;
+	font-size: 14px;
+	padding: 2px 5px;
+	background: gray;
+	color: white; 
+	transition: 0.5s;
+}
+
+.cancel_btn:hover {
+	background-color: #303649;
+}
+
+.add2_btn {
+	background-color: #D8B532;
+	color: #fff;
+	float: left;
+	padding: 5px 10px;
+	border: 1px solid #ab8d21;
+	margin-top: -30px;
+	transition: 0.5s;
+}
+
+.add2_btn:hover {
+	background-color: #ab8d21;
+}
+
+.database p {
+	font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	font-weight: 600;
+    text-align: center;
+}
+
+.database table {
+	background: #fff;
+	width: 100%;
+	margin: 20px auto;
+	padding-bottom: 20px;
+	border: 1px solid #D8B532; 
+	font-size: 14px;
+}
+
+.database_btn {
+	text-decoration: none;
+    padding: 10px 7px 10px 7px;
+	color: white;
+	font-size: 12px;
+	border: 1px solid black;
+	margin-left: 35%;
+	transition: 0.5s;
+	cursor: pointer;
+}

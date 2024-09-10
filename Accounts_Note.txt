@@ -1,0 +1,9 @@
+Student Portal:
+localhost/QCU SIS/student/index.html
+Username: 19-0000
+Pass: 12345
+
+Admin Portal:
+localhost/QCU SIS/admin/index.html
+Username: admin1
+Pass: 12345

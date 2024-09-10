@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> QCU SIS Portal </title>
+	<link rel="stylesheet" href="..\assets/css/index.css">
+</head>
+
+<body>
+	<section>
+		<div class="imgBx">
+			<img src="..\assets/img/qcu.jpg">
+		</div>
+		<div class="contentBx">
+			<div class="formBx">
+				<div class="logo"> 
+			        <img src="..\assets/img/qcu_logo.png">
+			        <p> QUEZON CITY UNIVERSITY </p>
+			        <h2> Student Portal Login </h2>
+			    </div>
+				<form action="..\student_signup.php" method="POST">
+					<div class="inputBx">
+						<span>Student No.</span>
+						<input type="text" name="student_no">
+					</div>
+					<div class="inputBx">
+						<span>Password</span>
+						<input type="password" name="password">
+					</div>
+					<div class="inputBx">
+						<input type="submit" value="Sign in" name="submit">
+					</div>
+					<div class="inputBx">
+						<p> Forget your Pasword? <a href="#">Click here</a></p>
+					</div>
+				</form>
+			</div>
+		</div>
+	</section>
+</body>
+</html>
