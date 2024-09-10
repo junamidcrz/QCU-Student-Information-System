@@ -17,11 +17,11 @@ schedule’s information on the system.
 on the system.
 ## User Roles
 1. Administrator
-Full access to all data and system features.
-Can add, edit, and delete information related to students, faculty, classes, and schedules.
+* Full access to all data and system features.
+* Can add, edit, and delete information related to students, faculty, classes, and schedules.
 2. Student
-Limited access to the system (view-only).
-Can view their own grades, schedule, and profile details but cannot make changes.
+* Limited access to the system (view-only).
+* Can view their own grades, schedule, and profile details but cannot make changes.
 ## Technologies Used
 * Frontend: HTML
 * Design: CSS, Bootstrap, and JavaScript
